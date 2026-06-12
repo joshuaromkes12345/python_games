@@ -3,7 +3,8 @@
 Dit zijn mijn persoonlijke games.
 
 voor de meeste games hebt u de Pygame module nodig deze installeert u met:
-pip install pygame
+
+```pip install pygame```
 
 # Blackjack engine
 
