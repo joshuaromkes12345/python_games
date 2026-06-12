@@ -13,6 +13,6 @@ Ik had bij deze nog geen OOP geleerd, dus de code is erg gedisorganiseerd, maar 
 
 Met dit spel gaat bewegen met WASD, en het is een clone van het klassieke spel Snake.
 
-# ping_Pong
+# Ping_Pong
 
 Met dit spel beweeg je met de pijltjes, en dit spel is een clone van het klassieke spel Pong. 
