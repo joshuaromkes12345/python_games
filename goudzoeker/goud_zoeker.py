@@ -9,6 +9,8 @@ WIDTH = 1280
 # pygame setup
 pygame.init()
 pygame.font.init()
+icon = pygame.image.load("goud_icon.jpg")
+pygame.display.set_icon(icon)
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 clock = pygame.time.Clock()
 game_over = False
