@@ -10,7 +10,7 @@ font = pygame.font.SysFont("FreeSans", 36)
 screen = pygame.display.set_mode((SIZE, SIZE))
 clock = pygame.time.Clock()
 pygame.display.set_caption("Super coole TD game")
-timestep = 500
+# timestep = 500
 
 red = (255,0,0)
 
